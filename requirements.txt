@@ -1,6 +1,6 @@
-langchain==0.1.14
+streamlit==1.32.2
 openai
 python-dotenv
+langchain==0.1.14
 pydantic==1.10.13
-pydantic-core==0.16.1
-streamlit
+pydantic-settings==1.0.1
